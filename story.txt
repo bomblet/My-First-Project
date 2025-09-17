@@ -1,1 +1,2 @@
 从前有一个 Git 仓库。
+Now, we have new story.
