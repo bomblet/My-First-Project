@@ -2,3 +2,4 @@
 Now, we have new story.
 revised
 這裡未來會放一個登入按鈕。
+從此，他們過上了幸福快樂的日子。
