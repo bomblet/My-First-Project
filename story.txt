@@ -1,4 +1,4 @@
-从前有一个 Git 仓库。
+很久很久以前，有一個 Git 倉庫。
 Now, we have new story.
 revised
 這裡未來會放一個登入按鈕。
